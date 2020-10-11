@@ -1,6 +1,9 @@
 com/example/notificationMicroservice/NotificationMicroserviceApplication.java
  com.example.notificationMicroservice.NotificationMicroserviceApplication
-com/example/notificationMicroservice/notificationMicroserviceController/controller.java
- com.example.notificationMicroservice.notificationMicroserviceController.controller
+com/example/notificationMicroservice/dto/BloodDto.java
+ com.example.notificationMicroservice.dto.BloodDto
+ com.example.notificationMicroservice.dto.BloodDto$BloodDtoBuilder
+com/example/notificationMicroservice/notificationMicroserviceController/BloodStatusController.java
+ com.example.notificationMicroservice.notificationMicroserviceController.BloodStatusController
 com/example/notificationMicroservice/clientService/client.java
  com.example.notificationMicroservice.clientService.client
