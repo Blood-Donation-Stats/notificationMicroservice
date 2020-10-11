@@ -1,0 +1,2 @@
+com/example/notificationMicroservice/NotificationMicroserviceApplicationTests.java
+ com.example.notificationMicroservice.NotificationMicroserviceApplicationTests
